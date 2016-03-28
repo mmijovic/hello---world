@@ -1,3 +1,4 @@
 # hello---world
 moj prvi repository
-Moj prvi repository, učim vredno
+učim vredno dan i noć
+mesec me voli kao i ja njega
